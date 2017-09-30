@@ -20,6 +20,6 @@ The basic motor placement relative to the wheel
 
 Or outside
 
-![motor wheel driving arrangement](images/wheel-motor.png)
+![motor wheel driving arrangement](images/wheel-motor-outside.png)
 
 (3d view http://openjscad.org#https://raw.githubusercontent.com/dagrende/r-e-cycle/master/images/wheelMotorIdea.jscad)
