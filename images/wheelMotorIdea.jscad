@@ -28,5 +28,6 @@ function main() {
       .subtract(cylinder({r: (wheelD) / 2 - tireD - falgH, h: falgW, center: true, fn: fn})).setColor([.8, .8, .8]),
     motor().rotateX(90).translate([0, (wheelD - falgH) / 2 - tireD, (falgW + rubberWheelD) / 2]).setColor([.5, .8, .5])
   )
+    .rotateZ(180)
     .scale(0.1)
 }

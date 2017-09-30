@@ -14,14 +14,12 @@ Or - to be sincere - it doesn't exist yet.
 
 # Design Ideas
 
-The basic motor placement relative to the wheel.
+The basic motor placement relative to the wheel
+
+![motor wheel driving arrangement](images/wheel-motor.png)
+
+Or outside
 
 ![motor wheel driving arrangement](images/wheel-motor.png)
 
 (3d view http://openjscad.org#https://raw.githubusercontent.com/dagrende/r-e-cycle/master/images/wheelMotorIdea.jscad)
-
-# Assembly
-
-# Mounting
-
-# Options
