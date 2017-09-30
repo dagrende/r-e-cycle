@@ -1,7 +1,7 @@
 # r-e-cycle
 electrical motor system for the bicycle you already have
 
-# Rational
+# Rationale
 
 Why are e-cycle motors so complicated? Why do they require replacing so many part to be mounted?
 Why do they interfere with you when you don't want the extra e-help?
