@@ -14,7 +14,7 @@ Or - to be sincere - it doesn't exist yet.
 
 # Design Ideas
 
-The basic motor placement relative to the wheel
+The basic motor placement inside the wheel
 
 ![motor wheel driving arrangement](images/wheel-motor.png)
 
